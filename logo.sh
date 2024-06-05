@@ -1,6 +1,6 @@
 echo -e "\033[0;31m"
 echo "//==========================================================================\\"
-echo "||COIN HUNTERS NODE                                                           ||"
+echo "||COIN HUNTERS NODE  SERVICES                                                 ||"
 echo "||👑 Crypto Community & Validator Service & Startup Acc.Web3 DeFi Blockchain, ||"
 echo "||Tech Investor, Researcher and Content Creator                               ||"
 echo "\\==========================================================================//"
