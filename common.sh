@@ -29,3 +29,4 @@ function addToPath {
   if [ -z "$PATH_EXIST" ]; then
     echo "export PATH=\$PATH:${1}" >> $HOME/.bash_profile
   fi
+}
