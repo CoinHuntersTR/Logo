@@ -1,5 +1,5 @@
 #!/bin/bash
-source <(curl -s https://raw.githubusercontent.com/itrocket-team/testnet_guides/main/utils/common.sh)
+source <(curl -s https://raw.githubusercontent.com/CoinHuntersTR/Logo/main/common.sh)
 
 printGreen "2. Updating packages..." && sleep 1
 sudo apt update
