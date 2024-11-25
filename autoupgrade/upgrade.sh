@@ -20,8 +20,8 @@ printLogo
 
 # Function to send messages to Telegram
 # If you want to receive Telegram notifications after updates, create a /root/tg.conf file with the following values:
-# CHAT_ID_ALARM="-4168333661"
-# BOT_TOKEN="7008823380:AAEYmj8HMgH0r8w5P9GXpyyxp2tfQI_Bkmc"
+# CHAT_ID_ALARM=""
+# BOT_TOKEN=""
 if [ -f /root/tg.conf ]; then
     source /root/tg.conf
 else
